@@ -1,0 +1,16 @@
+
+h1 {
+    font-style: italic;
+    text-align: center;
+}
+
+.lemon {
+    width: 410px;
+    height: 329px;
+    border: 1px solid #f7d260;
+    margin: 50px auto;
+    border-radius: 245px 30px;
+    background-image: url('../img/lemon-skin.jpg');
+    background-size: cover;
+    
+}
